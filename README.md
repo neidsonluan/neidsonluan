@@ -1,6 +1,6 @@
-## Hi there 👋
+    ##Bem  Vindos ao meu perfil 
 
-- boas vindas ao meu perfil
+    
 - meu nome e neidson luan
 - estou estudando na [alura](https://www.alura.com.br)
 - estou me desenvolvendo na linguagem javaScript
